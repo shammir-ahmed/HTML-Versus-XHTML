@@ -3,10 +3,10 @@ XHTML is a stricter, more XML-based version of HTML.
 
 ## What is XHTML?
 
--XHTML stands for EXtensible HyperText Markup Language
--XHTML is a stricter, more XML-based version of HTML
--XHTML is HTML defined as an XML application
--XHTML is supported by all major browsers
+- XHTML stands for EXtensible HyperText Markup Language
+- XHTML is a stricter, more XML-based version of HTML
+- XHTML is HTML defined as an XML application
+- XHTML is supported by all major browsers
 
 ## Why XHTML?
 XML is a markup language where all documents must be marked up correctly (be "well-formed").
